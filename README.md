@@ -4,7 +4,8 @@ Eine Übersicht meiner privaten Entwicklungs-, Lern- und Referenzprojekte.
 
 ## Fachinformatiker Lernbegleiter
 
-Deutschsprachige Quiz-Anwendung zur ergänzenden Prüfungsvorbereitung für angehende Fachinformatiker. Die drei Versionen verwenden gemeinsame Fragenkataloge im JSON-Format und speichern den Lernfortschritt lokal.
+Deutschsprachige Quiz-Anwendung zur ergänzenden Prüfungsvorbereitung für angehende Fachinformatiker.<br>
+Die drei Versionen verwenden gemeinsame Fragenkataloge im JSON-Format und speichern den Lernfortschritt lokal.
 
 ### [Progressive Web App](https://github.com/devake86/Fachinformatiker-Lernbegleiter-pwa)
 
