@@ -4,8 +4,7 @@ Eine Übersicht meiner privaten Entwicklungs-, Lern- und Referenzprojekte.
 
 ## Fachinformatiker Lernbegleiter
 
-Deutschsprachige Quiz-Anwendung zur ergänzenden Prüfungsvorbereitung für angehende Fachinformatiker.<br>
-Die drei Versionen verwenden gemeinsame Fragenkataloge im JSON-Format und speichern den Lernfortschritt lokal.
+Deutschsprachige Quiz-Anwendung zur ergänzenden Prüfungsvorbereitung für angehende Fachinformatiker. Die drei Versionen verwenden gemeinsame Fragenkataloge im JSON-Format und speichern den Lernfortschritt lokal.
 
 ### [Progressive Web App](https://github.com/devake86/Fachinformatiker-Lernbegleiter-pwa)
 
@@ -49,6 +48,8 @@ Regelbasiertes Tool zur Analyse von CSV-Geschäftsdaten und zur Erzeugung überp
 **Technologien:** Java, JavaFX, SQLite
 
 Desktop music player combining local MP3 playback, song management, ID3 metadata import and a customizable playlist.
+
+[Windows-Version herunterladen](https://github.com/devake86/Mp3PlayerDb/releases/download/v1.0-rc1/Mp3PlayerDb_v1.0-rc1.zip)
 
 ## Spiele
 
